@@ -1,0 +1,11 @@
+version: '3'
+
+volumes:
+  webtop:
+    driver: local
+
+services:
+  webtop:
+    image: exbox/webtop:0.2
+    ports:
+    - "9988:80"

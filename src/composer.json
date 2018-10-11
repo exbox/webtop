@@ -1,0 +1,7 @@
+{
+  "name": "exbox/webtop",
+  "license": "MIT",
+  "require": {
+    "exfriend/hardware-info": "^1.2"
+  }
+}
