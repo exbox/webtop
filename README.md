@@ -1,5 +1,4 @@
 # Webtop
-===
 Webtop is a minimalistic Docker image to collect some basic host system metrics like CPU and RAM usage and display it va JSON API.
 
 Example URL:
